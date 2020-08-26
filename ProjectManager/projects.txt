@@ -1,0 +1,84 @@
+1
+Test 1
+Apartment
+32 Seaside Crescent
+6789
+120000.0
+50000.0
+18032020
+false
+Architect
+Peter
+Josephs
+08208208208
+email@email.com
+20 Street Street, WC
+Contractor
+Joe
+Pieterse
+0210210210
+email2@email.com
+21 Street Street, WC
+Customer
+Sarah
+Muller
+07207207207
+email3@email.com
+22 Street Street, WC
+-----------------------------------------------
+2
+Test 2
+Mall
+66 Seaside Crescent
+1234
+150000.0
+70000.0
+18032020
+false
+Architect
+Peter
+Josephs
+08208208208
+email@email.com
+20 Street Street, WC
+Contractor
+Joe
+Pieterse
+0210210210
+email2@email.com
+21 Street Street, WC
+Customer
+Sarah
+Muller
+07207207207
+email3@email.com
+22 Street Street, WC
+-----------------------------------------------
+3
+Test 3
+House
+88 Seaside Crescent
+4567
+170000.0
+100000.0
+18032020
+true
+Architect
+Peter
+Josephs
+08208208208
+email@email.com
+20 Street Street, WC
+Contractor
+Joe
+Pieterse
+0210210210
+email2@email.com
+21 Street Street, WC
+Customer
+Sarah
+Muller
+07207207207
+email3@email.com
+22 Street Street, WC
+-----------------------------------------------
